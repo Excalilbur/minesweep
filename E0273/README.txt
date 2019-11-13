@@ -1,6 +1,7 @@
-ÔÚlinuxÏÂ£º
-½øÈëserverÎÄ¼þ¼Ð£¬Ö´ÐÐÃüÁî ./server 12345 ÔËÐÐ·þÎñÆ÷
-½øÈëclientÎÄ¼þ¼Ð£¬Ö´ÐÐÃüÁî ./client 127.0.0.1 12345 ÔËÐÐ¿Í»§¶Ë£¨127.0.0.1Îª·þÎñÆ÷IP£¬¿É¸ù¾ÝÕæÊµ·þÎñÆ÷IP×ÔÐÐ¸ü¸Ä£¬Èç£º·þÎñÆ÷IPÎª192.168.1.11£¬.ÔòÖ´ÐÐ/client 192.168.1.11 12345ÔËÐÐ³ÌÐò£©
-ÔÚserverºÍclientÎÄ¼þ¼ÐÏÂÖ´ÐÐmakeÃüÁî±àÒë³ÌÐò¡£Ö´ÐÐmake cleanÉ¾³ý³ÌÐò
 
-×ÔÐÐÌí¼Óreport.docxÖÐµÄÍÅ¶ÓÐÅÏ¢µÈÄÚÈÝ
+åœ¨linuxä¸‹ï¼š
+è¿›å…¥serveræ–‡ä»¶å¤¹ï¼Œæ‰§è¡Œå‘½ä»¤ ./server 12345 è¿è¡ŒæœåŠ¡å™¨
+è¿›å…¥clientæ–‡ä»¶å¤¹ï¼Œæ‰§è¡Œå‘½ä»¤ ./client 127.0.0.1 12345 è¿è¡Œå®¢æˆ·ç«¯ï¼ˆ127.0.0.1ä¸ºæœåŠ¡å™¨IPï¼Œå¯æ ¹æ®çœŸå®žæœåŠ¡å™¨IPè‡ªè¡Œæ›´æ”¹ï¼Œå¦‚ï¼šæœåŠ¡å™¨IPä¸º192.168.1.11ï¼Œ.åˆ™æ‰§è¡Œ/client 192.168.1.11 12345è¿è¡Œç¨‹åºï¼‰
+åœ¨serverå’Œclientæ–‡ä»¶å¤¹ä¸‹æ‰§è¡Œmakeå‘½ä»¤ç¼–è¯‘ç¨‹åºã€‚æ‰§è¡Œmake cleanåˆ é™¤ç¨‹åº
+
+è‡ªè¡Œæ·»åŠ report.docxä¸­çš„å›¢é˜Ÿä¿¡æ¯ç­‰å†…å®¹
